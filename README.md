@@ -1,4 +1,4 @@
-# Radio-V
+# Radio V:
 Radio V is a simulation of fictional (from games) and real life radio stations each with their own themes and music. Radio V is currently in early stages of development and is far from being complete and released.
 
 # How to install Radio V:
@@ -12,6 +12,7 @@ Radio V is a simulation of fictional (from games) and real life radio stations e
 8. If you recieve any issues while running Radio V, make sure Radio V is fully closed and launch Radio V Installer this time it should show that Radio V is already installed. Select 'Repair Radio V (Reinstall)' by pressing '2' and hitting enter. The process will be automatic.
 9. If you want to uninstall Radio V, make sure Radio V is fully closed and launch Radio V Installer this time it should show that Radio V is already installed. Select 'Uninstall Radio V' by pressing '3' and hitting enter. The process will be automatic.
 
+# Screenshots:
 **Main Menu:**
 ![Main Menu](https://github.com/Nuzza/Radio-V/blob/master/Images/Main%20Menu.png?raw=true)
 
