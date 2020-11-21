@@ -2,7 +2,7 @@
 Radio V is a simulation of fictional (from games) and real life radio stations each with their own themes and music. Radio V is currently in early stages of development and is far from being complete and released.
 
 # How to install Radio V:
-1. Download the latest version of Radio V Installer from: https://github.com/Nuzza/Radio-V/releases/download/v0.1.1-beta-v1.3/Radio_V_Installer.exe
+1. Download the latest version of Radio V Installer from: https://github.com/Nuzza/Radio-V/releases/download/0.1.2-beta-v1.4/Radio_V_Installer.exe
 2. If you get an error message saying that 'Radio_V_Installer.exe was blocked because it could harm your device.', click the 3 dots next to the 'Delete' button and select 'Keep'.
 3. You will be taken to a new tab with a message saying 'This app might harm your device'. Just select the arrow next to 'Show more' and select 'Keep anyway'. The download should complete.
 4. While still on that page, select 'Show in folder' underneith the link of 'Radio_V_Installer.exe'. Your Downloads folder should now open.
