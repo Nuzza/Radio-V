@@ -1,40 +1,43 @@
 
 # Radio V:
-Radio V is a simulation of fictional (from games) and real life radio stations each with their own themes and music. Radio V is currently in early stages of development and is far from being complete and released.
+Radio V is a simulation of fictional (from games) and real life radio stations each with their own themes and music. Radio V is currently in BETA stage so bugs may still exist as well as many features are yet to be added, changed, or improved.
 
 # How to install Radio V:
-1. Download the latest version of Radio V Installer from: https://github.com/Nuzza/Radio-V/releases/download/0.1.2-beta-v1.4/Radio_V_Installer.exe
-2. If you get an error message saying that 'Radio_V_Installer.exe was blocked because it could harm your device.', click the 3 dots next to the 'Delete' button and select 'Keep'.
-3. You will be taken to a new tab with a message saying 'This app might harm your device'. Just select the arrow next to 'Show more' and select 'Keep anyway'. The download should complete.
-4. While still on that page, select 'Show in folder' underneith the link of 'Radio_V_Installer.exe'. Your Downloads folder should now open.
-5. Double click on 'Radio_V_Installer.exe' and the setup process should complete automatically. If you are wondering where Radio V gets installed to on your computer, it gets installed to 'C:\Radio V'.
-6. After Radio V and all the neccessary packages have been downloaded and installed and it says 'Press enter to start Radio V', press enter and Radio V should boot up. Shortcuts will also be added to your Desktop and Start Menu folder for quick access.
-7. If you want to update Radio V, make sure Radio V is fully closed and launch Radio V Installer this time it should show that Radio V is already installed. Select 'Check for Radio V updates' by pressing '1' and hitting enter. The process will be automatic.
-8. If you recieve any issues while running Radio V, make sure Radio V is fully closed and launch Radio V Installer this time it should show that Radio V is already installed. Select 'Repair Radio V (Reinstall)' by pressing '2' and hitting enter. The process will be automatic.
-9. If you want to uninstall Radio V, make sure Radio V is fully closed and launch Radio V Installer this time it should show that Radio V is already installed. Select 'Uninstall Radio V' by pressing '3' and hitting enter. The process will be automatic.
+1. Download the latest version of Radio V from: https://github.com/Nuzza/Radio-V/releases
+2. Extract the folder and run Radio V.exe
+3. If you get a message saying 'Windows protected your PC', click "More info' and 'Run anyway'. This message will only show once. Radio V should then launch.
 
 # Screenshots:
 
-**Main Menu:**
+**Main Menu Page:**
 
-![Main Menu](https://github.com/Nuzza/Radio-V/blob/master/Images/Main%20Menu.png?raw=true)
+![image](https://user-images.githubusercontent.com/29596317/111895026-b8176800-8a5f-11eb-9727-297b64beb0cb.png)
 
-**Select Station:**
+**Available Packages Page:**
 
-![Select Station](https://github.com/Nuzza/Radio-V/blob/master/Images/Select%20Station.png?raw=true)
+![image](https://user-images.githubusercontent.com/29596317/111895084-0167b780-8a60-11eb-9d9d-5536cca6f95c.png)
 
-**Los Santos Rock Radio (GTA V Station):**
+**Package Manager Page (Downloading Non-Stop-Pop FM):**
 
-![Los Santos Rock Radio](https://github.com/Nuzza/Radio-V/blob/master/Images/Los%20Santos%20Rock%20Radio.png?raw=true)
+![image](https://user-images.githubusercontent.com/29596317/111895101-25c39400-8a60-11eb-8609-0efea72cb667.png)
 
-**Non-Stop-Pop FM (GTA V Station):**
+**Settings Page:**
 
-![Non-Stop-Pop FM](https://github.com/Nuzza/Radio-V/blob/master/Images/Non-Stop-Pop%20FM.png?raw=true)
+![image](https://user-images.githubusercontent.com/29596317/111895044-d0878280-8a5f-11eb-874f-74ec17ae8510.png)
 
-**Radio Mirror Park (GTA V Station):**
+**Settings Page (Dark Mode):**
 
-![Radio Mirror Park](https://github.com/Nuzza/Radio-V/blob/master/Images/Radio%20Mirror%20Park.png?raw=true)
+![image](https://user-images.githubusercontent.com/29596317/111895057-ded59e80-8a5f-11eb-8426-31a29d5074fb.png)
 
-**MMM Greatest Hits (IRL Station):**
+**Settings Page (OLED Mode):**
 
-![MMM Greatest Hits](https://github.com/Nuzza/Radio-V/blob/master/Images/MMM%20Greatest%20Hits.png?raw=true)
+![image](https://user-images.githubusercontent.com/29596317/111895062-e5641600-8a5f-11eb-9b26-3b5ce41c4384.png)
+
+**Now Playing Page (MMM Greatest Hits - Recently Played):**
+
+![image](https://user-images.githubusercontent.com/29596317/111895129-5e636d80-8a60-11eb-9c64-895b4ca67dd6.png)
+
+**Now Playing Page (MMM Greatest Hits - More Stations):**
+
+![image](https://user-images.githubusercontent.com/29596317/111895135-72a76a80-8a60-11eb-9493-18d8b9791149.png)
+
